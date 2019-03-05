@@ -1,0 +1,6 @@
+[package]
+name = "word-count"
+version = "0.1.0"
+authors = ["Michael Ruvinshteyn <michael.ruvinshteyn15@myhunter.cuny.edu>"]
+
+[dependencies]
